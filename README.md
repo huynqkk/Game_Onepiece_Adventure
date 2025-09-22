@@ -48,7 +48,7 @@ Players can run, jump, attack, and overcome obstacles to defeat enemies and comp
 1. **Install Java**: Ensure you have **JDK 11+** installed and `JAVA_HOME` set up.  
 2. **Get the Source Code**: Clone or download this repository.  
    ```bash
-   git clone https://github.com/your-username/pirates-adventure.git
+   git clone https://github.com/Alan29204/Pirates-Adventure.git
 
 ## 🖼️ Screenshots
 ![ First Look](./res/pic/1.png)
